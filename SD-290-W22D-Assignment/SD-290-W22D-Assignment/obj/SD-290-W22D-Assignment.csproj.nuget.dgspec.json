@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hogma\\source\\repos\\SD-290-W22D\\assignments\\Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj": {}
+    "C:\\Users\\hogma\\Source\\Repos\\SD-290-W22SD-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hogma\\source\\repos\\SD-290-W22D\\assignments\\Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj": {
+    "C:\\Users\\hogma\\Source\\Repos\\SD-290-W22SD-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hogma\\source\\repos\\SD-290-W22D\\assignments\\Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\hogma\\Source\\Repos\\SD-290-W22SD-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj",
         "projectName": "SD-290-W22D-Assignment",
-        "projectPath": "C:\\Users\\hogma\\source\\repos\\SD-290-W22D\\assignments\\Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj",
+        "projectPath": "C:\\Users\\hogma\\Source\\Repos\\SD-290-W22SD-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment.csproj",
         "packagesPath": "C:\\Users\\hogma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hogma\\source\\repos\\SD-290-W22D\\assignments\\Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\obj\\",
+        "outputPath": "C:\\Users\\hogma\\Source\\Repos\\SD-290-W22SD-Assignment\\SD-290-W22D-Assignment\\SD-290-W22D-Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hogma\\AppData\\Roaming\\NuGet\\NuGet.Config",
